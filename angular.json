@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -120,5 +121,8 @@
       }
     }
   },
-  "defaultProject": "ShoppingAndRecipe"
+  "defaultProject": "ShoppingAndRecipe",
+  "cli": {
+    "analytics": "a96330fa-ac30-4deb-a266-c0a978bc755a"
+  }
 }

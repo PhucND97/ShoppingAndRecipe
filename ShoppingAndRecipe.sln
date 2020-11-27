@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ShoppingAndRecipe", ".", "{2F903E0B-4B82-4A74-B131-6A3F43D3AFA7}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_7330"
+		Debug.AspNetCompiler.PhysicalPath = "..\ShoppingAndRecipe\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_7330\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_7330"
+		Release.AspNetCompiler.PhysicalPath = "..\ShoppingAndRecipe\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_7330\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "7330"
+		SlnRelativePath = "..\ShoppingAndRecipe\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F903E0B-4B82-4A74-B131-6A3F43D3AFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F903E0B-4B82-4A74-B131-6A3F43D3AFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF247CA4-71B5-481E-AE9D-74D8FE9C1124}
+	EndGlobalSection
+EndGlobal
